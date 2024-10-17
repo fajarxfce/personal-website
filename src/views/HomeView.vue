@@ -1,9 +1,17 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import Layout from "@/layouts/BaseLayout.vue";
+import Plum from "@/components/Plum/index.vue";
+import Info from "@/components/Info/index.vue";
+import Contact from "@/components/Contact/index.vue";
+import Project from "@/components/Project/index.vue";
+import Footer from "@/components/Footer/index.vue";
 </script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <Layout>
+    <Info />
+    <Contact />
+    <Project />
+    <Footer />
+    <Plum />
+  </Layout>
 </template>

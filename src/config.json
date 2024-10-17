@@ -1,0 +1,48 @@
+{
+  "greet": "Hello,",
+  "profile": {
+    "name": "BAYU RIFKI ALGHIFARI",
+    "desc": [
+      "Working with PHP Laravel",
+      "Intrested in music science fiction, including movies, books.",
+      "Be passionate about the internet and frontend technology."
+    ],
+    "github": "bayurifkialghifari"
+  },
+  "source": "https://github.com/bayurifkialghifari/personal-website",
+  "projects": [
+    {
+      "title": "Platform IPTV (Forty TV)",
+      "description": "FORTY TV hotel management system.",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/IPTV.png",
+      "tags": ["Laravel", "Java", "Android TV"]
+    }
+  ],
+  "contacts": [
+    {
+      "icon": "akar-icons:github-fill",
+      "text": "bayurifkialghifari",
+      "link": "https://github.com/bayurifkialghifari",
+      "color": "#374151"
+    },
+    {
+      "icon": "ri:whatsapp-line",
+      "text": "+6281909866787",
+      "link": "https://wa.me/6281909866787",
+      "color": "#07c160"
+    },
+    {
+      "icon": "ri:mail-line",
+      "text": "bayurifkialghifari@gmail.com",
+      "link": "mailto:bayurifkialgh@gmail.com",
+      "color": "#07c160"
+    },
+    {
+      "icon": "ri:code-s-slash-line",
+      "text": "Bayu Rifki Alghifari Project.co.id",
+      "link": "https://projects.co.id/public/browse_users/view/8d311e/bayurifkialgh",
+      "color": "#07c160"
+    }
+  ]
+}
