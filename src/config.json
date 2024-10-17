@@ -16,7 +16,140 @@
       "description": "FORTY TV hotel management system.",
       "link": "#",
       "image": "https://ohnooooo.sirv.com/Portfolio/IPTV.png",
-      "tags": ["Laravel", "Java", "Android TV"]
+      "tags": ["Laravel", "Livewire", "Java"]
+    },
+    {
+      "title": "Sikelim",
+      "description": "Sistem Informasi Kelola Limbah Medis",
+      "link": "https://sikelimkemkes.id/welcome",
+      "image": "https://ohnooooo.sirv.com/Portfolio/sikelim.png",
+      "tags": ["Laravel", "Vue 2"]
+    },
+    {
+      "title": "TAXIe",
+      "description": "Ojek online, mobil, pesan makan / minum, belanja kebutuhan harian, kirim paket, beli pulsa dan layanan lainnya.",
+      "link": "https://taxie.id",
+      "image": "https://ohnooooo.sirv.com/Portfolio/taxie.id.png",
+      "tags": ["Laravel", "React"]
+    },
+    {
+      "title": "Adaptasi Klhk",
+      "description": "Jendela Adaptasi Perubahan Iklim Menlhk",
+      "link": "https://adaptasi.ppi.menlhk.go.id/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/adaptasiklhk.png",
+      "tags": ["Laravel", "Vue 2"]
+    },
+    {
+      "title": "Zona seller",
+      "description": "Website belanja online",
+      "link": "https://zonaseller.com/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/Zona-seller.PNG",
+      "tags": ["Laravel", "Vue 2"]
+    },
+    {
+      "title": "Buff Fun Run 2023",
+      "description": "Event Buff Fun Run 2023",
+      "link": "https://www.instagram.com/buff.ina",
+      "image": "https://ohnooooo.sirv.com/Portfolio/buff-fun-run-2023.png",
+      "tags": ["Laravel", "Livewire"]
+    },
+    {
+      "title": "Elearning Bkpm",
+      "description": "Elearning Bkpm",
+      "link": "https://elearning.bkpm.go.id/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/Elearning%20-%20BKPM.PNG",
+      "tags": ["Laravel"]
+    },
+    {
+      "title": "accsec.co.id",
+      "description": "AccSEC Company Profile",
+      "link": "https://accsec.co.id/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/accsec.png",
+      "tags": ["Laravel", "Livewire"]
+    },
+    {
+      "title": "tipbar.id",
+      "description": "Aplikasi titip barang online",
+      "link": "https://tipbar.id",
+      "image": "https://ohnooooo.sirv.com/Portfolio/Tipbar.id.PNG",
+      "tags": ["Codeigniter 3"]
+    },
+    {
+      "title": "Indolancer",
+      "description": "Website freelance indolancer",
+      "link": "https://indolancer.id/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/indolancer.png",
+      "tags": ["Laravel"]
+    },
+    {
+      "title": "Laundry App",
+      "description": "Laundry App",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/Laundry%20App.png",
+      "tags": ["PHP"]
+    },
+    {
+      "title": "Kemenkes",
+      "description": "Redesing Website Kemenkes",
+      "link": "https://kemkes.go.id/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/Kemenkes.png",
+      "tags": ["Laravel", "Bootstrap 4"]
+    },
+    {
+      "title": "Web Berita",
+      "description": "Lomba Dinamik 2019",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/webberita.PNG",
+      "tags": ["PHP"]
+    },
+    {
+      "title": "E tiketing",
+      "description": "Uji Kompetisi SMK 2019",
+      "link": "https://github.com/bayurifkialghifari/PHP-ETIKETING",
+      "image": "https://ohnooooo.sirv.com/Portfolio/ujikom.PNG",
+      "tags": ["PHP"]
+    },
+    {
+      "title": "Absensi QR Code SMK TI",
+      "description": "Absensi QR Code SMK TI 2019",
+      "link": "https://github.com/bayurifkialghifari/absensi-qrcode",
+      "image": "https://ohnooooo.sirv.com/Portfolio/QR-Code.PNG",
+      "tags": ["Codeigniter 3"]
+    },
+    {
+      "title": "Proyek Management PT Jagad Creative",
+      "description": "Proyek Management PT Jagad Creative",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/Proyek%20Management.PNG",
+      "tags": ["Codeigniter 3"]
+    },
+    {
+      "title": "E Sakti Absensi Subang",
+      "description": "E Sakti Absensi Subang",
+      "link": "https://esakti.subang.go.id/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/E%20sakti.PNG",
+      "tags": ["Codeigniter 3"]
+    },
+    {
+      "title": "Sistem Pakar",
+      "description": "Sistem Pakar",
+      "link": "#",
+      "image": "https://ohnooooo.sirv.com/Portfolio/Sipadi-pespa.PNG",
+      "tags": ["Codeigniter 3"]
+    },
+    {
+      "title": "Kiseki Space",
+      "description": "Kiseki Space",
+      "link": "https://kisekispace.com/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/KisekiSpace.png",
+      "tags": ["Codeigniter 3"]
+    },
+    {
+      "title": "Alia Parfume",
+      "description": "Alia Parfume",
+      "link": "https://www.aliaparfume.com/",
+      "image": "https://ohnooooo.sirv.com/Portfolio/aliaparfume.png",
+      "tags": ["Codeigniter 3"]
     }
   ],
   "contacts": [
