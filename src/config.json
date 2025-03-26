@@ -3,45 +3,60 @@
   "profile": {
     "name": "NURUL FAJAR",
     "desc": [
-      "Working with PHP Laravel",
+      "Working with Kotlin and Java",
       "Intrested in music science fiction, including movies, books.",
-      "Be passionate about the internet and frontend technology."
+      "Be passionate about the internet and mobile technology."
     ],
-    "github": "bayurifkialghifari"
+    "github": "fajarxfce"
   },
-  "source": "https://github.com/bayurifkialghifari/personal-website",
+  "source": "https://github.com/fajarxfce/personal-website",
   "projects": [
     {
-      "title": "Platform IPTV (Forty TV)",
-      "description": "FORTY TV hotel management system.",
+      "title": "Android TV Launcher",
+      "description": "Forty TV Launcher is a custom launcher for Android TV for hospitality",
+      "link": "#",
+      "image": "https://orangpalingganteng.sirv.com/Images/iptv/photo_2025-03-26_13-41-08.jpg",
+      "tags": ["Kotlin", "Laravel"]
+    },
+    {
+      "title": "IPTV",
+      "description": "IPTV for live streaming",
+      "link": "#",
+      "image": "https://orangpalingganteng.sirv.com/Images/iptv/4adb1e66-2f04-42cf-b9d4-247e9d08ea79.png",
+      "tags": ["Kotlin", "Laravel"]
+    },
+    {
+      "title": "Android TV Launcher",
+      "description": "Forty TV Launcher is a custom launcher for Android TV for hospitality",
       "link": "#",
       "image": "https://ohnooooo.sirv.com/Portfolio/IPTV.png",
-      "tags": ["Laravel", "Livewire", "Java"]
+      "tags": ["Kotlin", "Laravel"]
+    },
+    {
+      "title": "IDFiber Mapping",
+      "description": "IDFiber Mapping is a mobile application for mapping fiber optic networks",
+      "link": "#",
+      "image": "https://orangpalingganteng.sirv.com/Images/idfibermapping/photo_2025-03-26_13-55-22.jpg",
+      "tags": ["Java", "Laravel"]
     }
   ],
   "contacts": [
     {
       "icon": "akar-icons:github-fill",
-      "text": "bayurifkialghifari",
-      "link": "https://github.com/bayurifkialghifari",
+      "text": "fajarxfce",
+      "link": "https://github.com/fajarxfce",
       "color": "#374151"
     },
     {
       "icon": "ri:whatsapp-line",
-      "text": "+6281909866787",
-      "link": "https://wa.me/6281909866787",
+      "text": "+6289636593224",
+      "link": "https://wa.me/6289636593224",
       "color": "#07c160"
     },
     {
       "icon": "ri:mail-line",
-      "text": "bayurifkialghifari@gmail.com",
-      "link": "mailto:bayurifkialgh@gmail.com",
-      "color": "#07c160"
-    },
-    {
-      "icon": "ri:code-s-slash-line",
-      "text": "Bayu Rifki Alghifari Project.co.id",
-      "link": "https://projects.co.id/public/browse_users/view/8d311e/bayurifkialgh",
+      "text": "nfajar@protonmail.com",
+      "link": "mailto:nfajar@protonmail.com",
       "color": "#07c160"
     }
   ]
