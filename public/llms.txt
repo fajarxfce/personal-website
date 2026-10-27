@@ -1,17 +1,19 @@
-# Nurul Fajar - Android Developer
+# Nurul Fajar - Mobile Software Engineer
 
-> Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Workin by Duluin, Duluin Chat, HRIS Mobile, Android TV launchers, and IPTV.
+> Nurul Fajar is a Mobile Software Engineer building Android and cross-platform apps with Java, Kotlin, Dart, Flutter, and Compose Multiplatform.
 
 ## Profile Summary
 - **Name**: Nurul Fajar
 - **Known As**: fajarxfce
-- **Role**: Android Developer
+- **Role**: Mobile Software Engineer
 - **Website**: https://nfajar.vercel.app/
-- **Specializations**: Android, Kotlin, Java, Jetpack Compose, Laravel
+- **Specializations**: Native Android, Java, Kotlin, Dart, Flutter, Jetpack Compose, Compose Multiplatform, Clean Architecture, multi-module architecture
 
 ## Core Technical Skills
-- **Mobile**: Android, Kotlin, Java, Jetpack Compose
-- **Backend**: Laravel
+- **Languages**: Java, Kotlin, Dart
+- **Mobile**: Native Android, Flutter, Jetpack Compose, Compose Multiplatform
+- **Architecture & State Management**: Clean Architecture, multi-module architecture, BLoC, MVI, MVVM
+- **Build**: Gradle build conventions
 
 ## Featured Portfolio Projects
 - **[Workin by Duluin](https://play.google.com/store/apps/details?id=com.duluin.duluin_hris_app&hl=id)**: Employee HRIS application by Duluin for attendance, leave requests, claims, and approvals, built with Clean Architecture and a modular architecture. (Android, HRIS, Clean Architecture, Modular Architecture).

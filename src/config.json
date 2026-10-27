@@ -4,25 +4,32 @@
   "profile": {
     "name": "NURUL FAJAR",
     "desc": [
-      "Working with Kotlin and Java",
-      "Intrested in music science fiction, including movies, books.",
-      "Be passionate about the internet and mobile technology."
+      "Mobile Software Engineer specializing in native Android, Flutter, and Compose Multiplatform.",
+      "I build maintainable apps with Java, Kotlin, and Dart, using Clean Architecture and modular design.",
+      "Currently at Duluin, with experience in HRIS, chat, and Android TV. Creator of the Flutter packages Modifx and BlocFx."
     ],
     "github": "fajarxfce",
-    "title": "Android Developer | Kotlin, Java, Jetpack Compose"
+    "title": "Mobile Software Engineer"
   },
   "seo": {
-    "title": "Nurul Fajar - Android Developer | Kotlin, Java, Jetpack Compose",
-    "description": "Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Workin by Duluin, Duluin Chat, HRIS Mobile, Android TV launchers, and IPTV.",
-    "keywords": "Nurul Fajar, fajarxfce, Android Developer, Mobile Developer, Kotlin, Java, Jetpack Compose, Compose Multiplatform, Clean Architecture, Modular Architecture, Gradle Build Convention, Laravel, Android TV, IPTV, Workin by Duluin, Duluin Chat, HRIS Mobile",
+    "title": "Nurul Fajar - Mobile Software Engineer",
+    "description": "Nurul Fajar is a Mobile Software Engineer building Android and cross-platform apps with Java, Kotlin, Dart, Flutter, and Compose Multiplatform.",
+    "keywords": "Nurul Fajar, fajarxfce, Mobile Software Engineer, Android Developer, Flutter Developer, Java, Kotlin, Dart, Flutter, Jetpack Compose, Compose Multiplatform, Clean Architecture, Multi-module Architecture, BLoC, MVI, MVVM, Gradle Build Convention, Android TV, IPTV, Workin by Duluin, Duluin Chat, HRIS Mobile, Modifx, BlocFx",
     "ogImage": "https://github.com/fajarxfce.png"
   },
   "skills": [
-    "Android",
-    "Kotlin",
     "Java",
+    "Kotlin",
+    "Dart",
+    "Flutter",
     "Jetpack Compose",
-    "Laravel"
+    "Compose Multiplatform",
+    "Clean Architecture",
+    "Multi-module Architecture",
+    "BLoC",
+    "MVI",
+    "MVVM",
+    "Gradle"
   ],
   "source": "https://github.com/fajarxfce/personal-website",
   "projects": [

@@ -1,12 +1,12 @@
 # Complete Portfolio: Nurul Fajar
 
 ## Introduction
-Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Workin by Duluin, Duluin Chat, HRIS Mobile, Android TV launchers, and IPTV.
+Nurul Fajar is a Mobile Software Engineer building Android and cross-platform apps with Java, Kotlin, Dart, Flutter, and Compose Multiplatform. He works at Duluin and has experience delivering HRIS, chat, and Android TV applications, from architectural design to production deployment.
 
 ## Developer Profile
 - **Name**: Nurul Fajar
 - **Known As**: fajarxfce
-- **Role**: Android Developer
+- **Role**: Mobile Software Engineer
 - **Official Website**: https://nfajar.vercel.app/
 - **GitHub**: https://github.com/fajarxfce
 - **Resume**: https://www.cake.me/nfajar
@@ -15,8 +15,10 @@ Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpac
 - **Portfolio Source**: https://github.com/fajarxfce/personal-website
 
 ## Technical Skills
-- **Mobile**: Android, Kotlin, Java, Jetpack Compose
-- **Backend**: Laravel
+- **Languages**: Java, Kotlin, Dart
+- **Mobile**: Native Android, Flutter, Jetpack Compose, Compose Multiplatform
+- **Architecture & State Management**: Clean Architecture, multi-module architecture, BLoC, MVI, MVVM
+- **Build**: Gradle build conventions
 
 ## Detailed Project Catalog
 
@@ -53,6 +55,6 @@ Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpac
    - **Description**: Forty TV Launcher is a custom launcher for Android TV for hospitality
    - **Screenshot**: https://ohnooooo.sirv.com/Portfolio/IPTV.png
 
-## Interests
-Intrested in music science fiction, including movies, books.
-Be passionate about the internet and mobile technology.
+## Open Source
+- **Modifx**: Flutter utility for chainable, Jetpack Compose-style modifiers. https://pub.dev/packages/modifx
+- **BlocFx**: Extension for flutter_bloc with dedicated one-shot effect streams and state persistence. https://pub.dev/packages/blocfx
