@@ -7,7 +7,9 @@ defineOptions({
 });
 
 onMounted(() => {
-  document.title = meta.profile.name;
+  document.title =
+    meta.seo?.title ||
+    [meta.profile.name, meta.profile.title].filter(Boolean).join(" - ");
 });
 </script>
 
@@ -28,5 +30,15 @@ onMounted(() => {
         {{ text }}
       </li>
     </ul>
+  </div>
+
+  <div v-if="meta.skills && meta.skills.length" class="mt-4 flex flex-wrap gap-2">
+    <span
+      v-for="skill in meta.skills"
+      :key="skill"
+      class="border-1 rounded-md px-2 py-0.5 text-sm font-500 font-[Cute] dark:text-gray-300 text-gray-700 dark:border-gray-700 border-gray-300 dark:bg-[#252526] bg-[#f0f1f2]"
+    >
+      {{ skill }}
+    </span>
   </div>
 </template>

@@ -1,0 +1,30 @@
+# Nurul Fajar - Android Developer
+
+> Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Android TV launchers, IPTV, fiber optic mapping, and cashier applications.
+
+## Profile Summary
+- **Name**: Nurul Fajar
+- **Known As**: fajarxfce
+- **Role**: Android Developer
+- **Website**: https://nfajar.vercel.app/
+- **Specializations**: Android, Kotlin, Java, Jetpack Compose, Laravel
+
+## Core Technical Skills
+- **Mobile**: Android, Kotlin, Java, Jetpack Compose
+- **Backend**: Laravel
+
+## Featured Portfolio Projects
+- **Android TV Launcher**: Forty TV Launcher is a custom launcher for Android TV for hospitality (Kotlin, Laravel).
+- **IPTV**: IPTV for live streaming (Kotlin, Laravel).
+- **Android TV Launcher**: Forty TV Launcher is a custom launcher for Android TV for hospitality (Kotlin, Laravel).
+- **IDFiber Mapping**: IDFiber Mapping is a mobile application for mapping fiber optic networks (Java, Laravel).
+- **CashierApp**: CashierApp is a mobile application for cashier transactions build with Jetpack Compose (Kotlin, Jetpack Compose, Laravel).
+
+## Contact & Links
+- **GitHub**: https://github.com/fajarxfce
+- **Resume**: https://www.cake.me/nfajar
+- **WhatsApp**: https://wa.me/6289636593224
+- **nfajar@protonmail.com**: mailto:nfajar@protonmail.com
+
+## Detailed Context
+For the full project directory, see [llms-full.txt](/llms-full.txt).

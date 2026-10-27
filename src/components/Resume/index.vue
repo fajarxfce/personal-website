@@ -1,5 +1,6 @@
 <script setup>
 import { Icon } from "@iconify/vue";
+import meta from "@/config.json";
 
 defineOptions({
   name: "Resume",
@@ -18,6 +19,8 @@ defineOptions({
       <a
         href="https://www.cake.me/nfajar"
         target="_blank"
+        rel="noopener noreferrer"
+        :aria-label="`View ${meta.profile.name} Resume on Cake`"
         class="decoration-none text-gray-7"
       >
         <Icon icon="akar-icons:arrow-up-right" width="30" class="mt-5" />
@@ -27,6 +30,8 @@ defineOptions({
       <a
         href="https://www.cake.me/nfajar"
         target="_blank"
+        rel="noopener noreferrer"
+        :aria-label="`Download ${meta.profile.name} Resume`"
         class="dark:text-white text-black ease_dura decoration-none mt-5 rounded-md bg-[#f5f6f7] dark:bg-[#373738] hover:bg-[#07c160] hover:text-[#fff] p-3 font-[Cute] text-lg border-2 font-500 cursor-pointer"
       >
         Download Resume

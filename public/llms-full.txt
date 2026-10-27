@@ -1,0 +1,50 @@
+# Complete Portfolio: Nurul Fajar
+
+## Introduction
+Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Android TV launchers, IPTV, fiber optic mapping, and cashier applications.
+
+## Developer Profile
+- **Name**: Nurul Fajar
+- **Known As**: fajarxfce
+- **Role**: Android Developer
+- **Official Website**: https://nfajar.vercel.app/
+- **GitHub**: https://github.com/fajarxfce
+- **Resume**: https://www.cake.me/nfajar
+- **WhatsApp**: https://wa.me/6289636593224
+- **nfajar@protonmail.com**: mailto:nfajar@protonmail.com
+- **Portfolio Source**: https://github.com/fajarxfce/personal-website
+
+## Technical Skills
+- **Mobile**: Android, Kotlin, Java, Jetpack Compose
+- **Backend**: Laravel
+
+## Detailed Project Catalog
+
+1. **Android TV Launcher**
+   - **Tech Stack**: Kotlin, Laravel
+   - **Description**: Forty TV Launcher is a custom launcher for Android TV for hospitality
+   - **Screenshot**: https://orangpalingganteng.sirv.com/Images/iptv/photo_2025-03-26_13-41-08.jpg
+
+2. **IPTV**
+   - **Tech Stack**: Kotlin, Laravel
+   - **Description**: IPTV for live streaming
+   - **Screenshot**: https://orangpalingganteng.sirv.com/Images/iptv/4adb1e66-2f04-42cf-b9d4-247e9d08ea79.png
+
+3. **Android TV Launcher**
+   - **Tech Stack**: Kotlin, Laravel
+   - **Description**: Forty TV Launcher is a custom launcher for Android TV for hospitality
+   - **Screenshot**: https://ohnooooo.sirv.com/Portfolio/IPTV.png
+
+4. **IDFiber Mapping**
+   - **Tech Stack**: Java, Laravel
+   - **Description**: IDFiber Mapping is a mobile application for mapping fiber optic networks
+   - **Screenshot**: https://orangpalingganteng.sirv.com/Images/idfibermapping/photo_2025-03-26_13-55-22.jpg
+
+5. **CashierApp**
+   - **Tech Stack**: Kotlin, Jetpack Compose, Laravel
+   - **Description**: CashierApp is a mobile application for cashier transactions build with Jetpack Compose
+   - **Screenshot**: https://orangpalingganteng.sirv.com/Images/cashier/Screenshot_20250409_171657.png
+
+## Interests
+Intrested in music science fiction, including movies, books.
+Be passionate about the internet and mobile technology.

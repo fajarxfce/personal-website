@@ -1,0 +1,47 @@
+# Robots.txt for Nurul Fajar Portfolio
+# Allows all search engine crawlers and Generative AI retrieval bots
+
+User-agent: *
+Allow: /
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Google Gemini / Vertex / Extended
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# DeepSeek AI
+User-agent: DeepSeekBot
+Allow: /
+
+# Additional AI Crawlers & Common Crawl
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemap
+Sitemap: https://nfajar.vercel.app/sitemap.xml

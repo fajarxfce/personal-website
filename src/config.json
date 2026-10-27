@@ -1,4 +1,5 @@
 {
+  "siteUrl": "https://nfajar.vercel.app",
   "greet": "Hello,",
   "profile": {
     "name": "NURUL FAJAR",
@@ -7,8 +8,22 @@
       "Intrested in music science fiction, including movies, books.",
       "Be passionate about the internet and mobile technology."
     ],
-    "github": "fajarxfce"
+    "github": "fajarxfce",
+    "title": "Android Developer | Kotlin, Java, Jetpack Compose"
   },
+  "seo": {
+    "title": "Nurul Fajar - Android Developer | Kotlin, Java, Jetpack Compose",
+    "description": "Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Android TV launchers, IPTV, fiber optic mapping, and cashier applications.",
+    "keywords": "Nurul Fajar, fajarxfce, Android Developer, Mobile Developer, Kotlin, Java, Jetpack Compose, Laravel, Android TV, IPTV, IDFiber Mapping, CashierApp",
+    "ogImage": "https://github.com/fajarxfce.png"
+  },
+  "skills": [
+    "Android",
+    "Kotlin",
+    "Java",
+    "Jetpack Compose",
+    "Laravel"
+  ],
   "source": "https://github.com/fajarxfce/personal-website",
   "projects": [
     {

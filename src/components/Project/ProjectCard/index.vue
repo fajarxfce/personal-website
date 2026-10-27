@@ -1,4 +1,6 @@
 <script setup>
+import meta from "@/config.json";
+
 defineOptions({
   name: "ProjectCard",
 });
@@ -18,10 +20,17 @@ defineProps({
     class="block rounded-md dark:bg-[#373738] bg-[#f5f6f7] dark:hover:bg-[#4c4c4c] hover:bg-[#eeeeee] xl:w-[46%] w-[100%] ease_dura p-3 mt-5 flex font-[Cute] cursor-pointer decoration-none op-90"
     :href="link"
     target="_blank"
+    rel="noopener noreferrer"
   >
     <div class="w-full">
       <div class="flex justify-center items-center">
-        <img :src="image" :alt="title" class="w-75" loading="lazy" />
+        <img
+          :src="image"
+          :alt="`${title} - ${meta.profile.name} portfolio (${tags?.join(', ') || ''})`"
+          class="w-75"
+          loading="lazy"
+          decoding="async"
+        />
       </div>
       <div class="flex items-center flex-wrap">
         <h3 class="dark:text-white text-black ease_dura text-md mr-2 mt-2">
