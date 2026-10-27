@@ -1,7 +1,7 @@
 # Complete Portfolio: Nurul Fajar
 
 ## Introduction
-Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Android TV launchers, IPTV, fiber optic mapping, and cashier applications.
+Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Workin by Duluin, Duluin Chat, HRIS Mobile, Android TV launchers, and IPTV.
 
 ## Developer Profile
 - **Name**: Nurul Fajar
@@ -20,30 +20,38 @@ Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpac
 
 ## Detailed Project Catalog
 
-1. **Android TV Launcher**
-   - **Tech Stack**: Kotlin, Laravel
+1. **Workin by Duluin**
+   - **Tech Stack / Platform**: Android, HRIS, Clean Architecture, Modular Architecture
+   - **Description**: Employee HRIS application by Duluin for attendance, leave requests, claims, and approvals, built with Clean Architecture and a modular architecture.
+   - **Link**: https://play.google.com/store/apps/details?id=com.duluin.duluin_hris_app&hl=id
+   - **Screenshot**: https://nfajar.vercel.app/images/projects/workin-hris.webp
+
+2. **Duluin Chat**
+   - **Tech Stack / Platform**: Android, iOS, Clean Architecture, Modular Architecture
+   - **Description**: Communication application with direct and group chats, voice calls, and meetings, built with Clean Architecture and a modular architecture.
+   - **Link**: https://apps.apple.com/id/app/duluin-chat/id6799900385?l=id
+   - **Screenshot**: https://nfajar.vercel.app/images/projects/duluin-chat.webp
+
+3. **HRIS Mobile**
+   - **Tech Stack / Platform**: Kotlin, Compose Multiplatform, Multi-module, Clean Architecture, Gradle Build Convention
+   - **Description**: Compose Multiplatform employee application for attendance, work calendars, overtime, and leave management, built with a multi-module architecture, Clean Architecture, and Gradle build conventions.
+   - **Link**: https://github.com/fajarxfce/hris-mobile
+   - **Screenshot**: https://nfajar.vercel.app/images/projects/hris-mobile.webp
+
+4. **Android TV Launcher**
+   - **Tech Stack / Platform**: Kotlin, Laravel
    - **Description**: Forty TV Launcher is a custom launcher for Android TV for hospitality
    - **Screenshot**: https://orangpalingganteng.sirv.com/Images/iptv/photo_2025-03-26_13-41-08.jpg
 
-2. **IPTV**
-   - **Tech Stack**: Kotlin, Laravel
+5. **IPTV**
+   - **Tech Stack / Platform**: Kotlin, Laravel
    - **Description**: IPTV for live streaming
    - **Screenshot**: https://orangpalingganteng.sirv.com/Images/iptv/4adb1e66-2f04-42cf-b9d4-247e9d08ea79.png
 
-3. **Android TV Launcher**
-   - **Tech Stack**: Kotlin, Laravel
+6. **Android TV Launcher**
+   - **Tech Stack / Platform**: Kotlin, Laravel
    - **Description**: Forty TV Launcher is a custom launcher for Android TV for hospitality
    - **Screenshot**: https://ohnooooo.sirv.com/Portfolio/IPTV.png
-
-4. **IDFiber Mapping**
-   - **Tech Stack**: Java, Laravel
-   - **Description**: IDFiber Mapping is a mobile application for mapping fiber optic networks
-   - **Screenshot**: https://orangpalingganteng.sirv.com/Images/idfibermapping/photo_2025-03-26_13-55-22.jpg
-
-5. **CashierApp**
-   - **Tech Stack**: Kotlin, Jetpack Compose, Laravel
-   - **Description**: CashierApp is a mobile application for cashier transactions build with Jetpack Compose
-   - **Screenshot**: https://orangpalingganteng.sirv.com/Images/cashier/Screenshot_20250409_171657.png
 
 ## Interests
 Intrested in music science fiction, including movies, books.

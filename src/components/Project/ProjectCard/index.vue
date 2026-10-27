@@ -27,18 +27,18 @@ defineProps({
         <img
           :src="image"
           :alt="`${title} - ${meta.profile.name} portfolio (${tags?.join(', ') || ''})`"
-          class="w-75"
+          class="w-75 max-w-full h-96 object-contain"
           loading="lazy"
           decoding="async"
         />
       </div>
-      <div class="flex items-center flex-wrap">
+      <div class="flex flex-col items-start">
         <h3 class="dark:text-white text-black ease_dura text-md mr-2 mt-2">
           {{ title }}
         </h3>
-        <div class="h-8 flex items-center">
+        <div class="min-h-8 flex flex-wrap items-center gap-1">
           <span
-            class="border-1 rounded text-sm dark:text-white text-black ease_dura h-4 leading-4 px-0.5 mr-2"
+            class="border-1 rounded text-sm dark:text-white text-black ease_dura min-h-4 leading-4 px-0.5"
             v-for="tag of tags"
             >{{ tag }}</span
           >

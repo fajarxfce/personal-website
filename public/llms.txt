@@ -1,6 +1,6 @@
 # Nurul Fajar - Android Developer
 
-> Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Android TV launchers, IPTV, fiber optic mapping, and cashier applications.
+> Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Workin by Duluin, Duluin Chat, HRIS Mobile, Android TV launchers, and IPTV.
 
 ## Profile Summary
 - **Name**: Nurul Fajar
@@ -14,11 +14,12 @@
 - **Backend**: Laravel
 
 ## Featured Portfolio Projects
+- **[Workin by Duluin](https://play.google.com/store/apps/details?id=com.duluin.duluin_hris_app&hl=id)**: Employee HRIS application by Duluin for attendance, leave requests, claims, and approvals, built with Clean Architecture and a modular architecture. (Android, HRIS, Clean Architecture, Modular Architecture).
+- **[Duluin Chat](https://apps.apple.com/id/app/duluin-chat/id6799900385?l=id)**: Communication application with direct and group chats, voice calls, and meetings, built with Clean Architecture and a modular architecture. (Android, iOS, Clean Architecture, Modular Architecture).
+- **[HRIS Mobile](https://github.com/fajarxfce/hris-mobile)**: Compose Multiplatform employee application for attendance, work calendars, overtime, and leave management, built with a multi-module architecture, Clean Architecture, and Gradle build conventions. (Kotlin, Compose Multiplatform, Multi-module, Clean Architecture, Gradle Build Convention).
 - **Android TV Launcher**: Forty TV Launcher is a custom launcher for Android TV for hospitality (Kotlin, Laravel).
 - **IPTV**: IPTV for live streaming (Kotlin, Laravel).
 - **Android TV Launcher**: Forty TV Launcher is a custom launcher for Android TV for hospitality (Kotlin, Laravel).
-- **IDFiber Mapping**: IDFiber Mapping is a mobile application for mapping fiber optic networks (Java, Laravel).
-- **CashierApp**: CashierApp is a mobile application for cashier transactions build with Jetpack Compose (Kotlin, Jetpack Compose, Laravel).
 
 ## Contact & Links
 - **GitHub**: https://github.com/fajarxfce

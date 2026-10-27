@@ -13,8 +13,8 @@
   },
   "seo": {
     "title": "Nurul Fajar - Android Developer | Kotlin, Java, Jetpack Compose",
-    "description": "Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Android TV launchers, IPTV, fiber optic mapping, and cashier applications.",
-    "keywords": "Nurul Fajar, fajarxfce, Android Developer, Mobile Developer, Kotlin, Java, Jetpack Compose, Laravel, Android TV, IPTV, IDFiber Mapping, CashierApp",
+    "description": "Portfolio of Nurul Fajar, an Android developer working with Kotlin, Java, Jetpack Compose, and Laravel. Explore Workin by Duluin, Duluin Chat, HRIS Mobile, Android TV launchers, and IPTV.",
+    "keywords": "Nurul Fajar, fajarxfce, Android Developer, Mobile Developer, Kotlin, Java, Jetpack Compose, Compose Multiplatform, Clean Architecture, Modular Architecture, Gradle Build Convention, Laravel, Android TV, IPTV, Workin by Duluin, Duluin Chat, HRIS Mobile",
     "ogImage": "https://github.com/fajarxfce.png"
   },
   "skills": [
@@ -26,6 +26,27 @@
   ],
   "source": "https://github.com/fajarxfce/personal-website",
   "projects": [
+    {
+      "title": "Workin by Duluin",
+      "description": "Employee HRIS application by Duluin for attendance, leave requests, claims, and approvals, built with Clean Architecture and a modular architecture.",
+      "link": "https://play.google.com/store/apps/details?id=com.duluin.duluin_hris_app&hl=id",
+      "image": "/images/projects/workin-hris.webp",
+      "tags": ["Android", "HRIS", "Clean Architecture", "Modular Architecture"]
+    },
+    {
+      "title": "Duluin Chat",
+      "description": "Communication application with direct and group chats, voice calls, and meetings, built with Clean Architecture and a modular architecture.",
+      "link": "https://apps.apple.com/id/app/duluin-chat/id6799900385?l=id",
+      "image": "/images/projects/duluin-chat.webp",
+      "tags": ["Android", "iOS", "Clean Architecture", "Modular Architecture"]
+    },
+    {
+      "title": "HRIS Mobile",
+      "description": "Compose Multiplatform employee application for attendance, work calendars, overtime, and leave management, built with a multi-module architecture, Clean Architecture, and Gradle build conventions.",
+      "link": "https://github.com/fajarxfce/hris-mobile",
+      "image": "/images/projects/hris-mobile.webp",
+      "tags": ["Kotlin", "Compose Multiplatform", "Multi-module", "Clean Architecture", "Gradle Build Convention"]
+    },
     {
       "title": "Android TV Launcher",
       "description": "Forty TV Launcher is a custom launcher for Android TV for hospitality",
@@ -46,20 +67,6 @@
       "link": "#",
       "image": "https://ohnooooo.sirv.com/Portfolio/IPTV.png",
       "tags": ["Kotlin", "Laravel"]
-    },
-    {
-      "title": "IDFiber Mapping",
-      "description": "IDFiber Mapping is a mobile application for mapping fiber optic networks",
-      "link": "#",
-      "image": "https://orangpalingganteng.sirv.com/Images/idfibermapping/photo_2025-03-26_13-55-22.jpg",
-      "tags": ["Java", "Laravel"]
-    },
-    {
-      "title": "CashierApp",
-      "description": "CashierApp is a mobile application for cashier transactions build with Jetpack Compose",
-      "link": "#",
-      "image": "https://orangpalingganteng.sirv.com/Images/cashier/Screenshot_20250409_171657.png",
-      "tags": ["Kotlin", "Jetpack Compose", "Laravel"]
     }
   ],
   "contacts": [
